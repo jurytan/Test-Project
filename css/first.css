@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS first attempt */
+
+h1 {
+
+  font-family: arial;
+  text-align: center;
+  background: url("img/planet.jpg") no-repeat center;
+
+}
+
+h2 {
+  background-color: #FFD291;
+  text-align: center;
+  font-family: verdana;
+
+}
